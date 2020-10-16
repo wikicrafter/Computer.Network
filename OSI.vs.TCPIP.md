@@ -22,7 +22,7 @@ Flow and error control on physical link
 - Physical 
 Transmission of physical bit stream 
 
-As we see in OSI model we have 7 layers but in TCP/IP it's 4 with updateTCP/IP mpdel. 
+As we see in OSI model we have 7 layers but in TCP/IP it's 4 with update TCP/IP model. 
 ## TCP/IP
 - Application 
 - Transport 
