@@ -90,7 +90,7 @@ The network layer provides only connectionless service.
 In this model, the protocol cannot be easily replaced.
 
 It consists of 4 layers.
-In the TCP/IP model, services, protocols, and interfaces are not properly separated. It is protocol dependent.
+In the TCP/IP model, services, protocols and interfaces are not properly separated. It is protocol dependent.
 
 This model is highly used.
 It does not provide the standardization to the devices. It provides a connection between various computers.
