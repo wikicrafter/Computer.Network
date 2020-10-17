@@ -6,7 +6,7 @@ For instance: how does it  works, which algorithm it use, what type of routing, 
 This is a free educational courses 
 Everyone can use it like a cheat-sheet :D 
 
-Please if you are a beginner than start with tutorials.md and follow the files where commitment named as "easy"
+Please if you are a beginner than start with tutorials.md and follow the files where commitment named as "easy".
 
 
 
