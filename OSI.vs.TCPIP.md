@@ -16,7 +16,7 @@ Authentication, manage sessions and reconnections
 - Transport
 Manage segmentation, acknowledgment, reliable 
 - Network
-Nulti node routing and addressing 
+Multi node routing and addressing 
 - Data link
 Flow and error control on physical link
 - Physical 
@@ -95,5 +95,5 @@ In the TCP/IP model, services, protocols and interfaces are not properly separat
 This model is highly used.
 It does not provide the standardization to the devices. It provides a connection between various computers.
 
-____________________________________________________________________________________________________________
+---
 
