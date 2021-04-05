@@ -20,6 +20,7 @@ command: netstat
 
 * Ping 
 
+* Nslookup
 
 * Traceroute
 
