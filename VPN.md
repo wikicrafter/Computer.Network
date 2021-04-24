@@ -53,3 +53,11 @@ for various platforms
 > Open-source
 
 ## Algo VPN 
+
+## VPN server :
+> While we can configure VPN server almost every operating system there are also approach ways to do that: <br> 
+ some manufactures sell appliancesor stand alone devices that act as a VPN host. 
+> This dedicated  devices called as: VPN concentrators or security gateways <br>
+### 
+ultifunction devices like a Wi-Fi routers often offer a VPN service <br>
+Some devices without this feature can be upgraded with new firmware(likeOpenWrt) that does offer the capability
