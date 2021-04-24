@@ -60,4 +60,6 @@ for various platforms
 > This dedicated  devices called as: VPN concentrators or security gateways <br>
 ### 
 ultifunction devices like a Wi-Fi routers often offer a VPN service <br>
-Some devices without this feature can be upgraded with new firmware(likeOpenWrt) that does offer the capability
+Some devices without this feature can be upgraded with new firmware(like <h1>OpenWrt</h1>) that does offer the 
+capability
+<br> 
