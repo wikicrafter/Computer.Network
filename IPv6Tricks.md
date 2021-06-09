@@ -1,6 +1,6 @@
 IPv4 designed with a 32-bit address system | limited total address 4,294,967.296 | in real world that range is 
 too small | 
-
+---
 larger address space is on IPv6
 
 IPv6 has 128-bit address system
