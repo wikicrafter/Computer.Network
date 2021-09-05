@@ -9,3 +9,9 @@ depressing
 switch while plugging in the power cord. Keep it held in for around 5 seconds while it boots and the USER LED 
 starts flashing. Now release the button to clear configuration. Note: If you wait until LED stops flashing, and 
 only then release the button - this will instead launch Netinstall mode, to reinstall RouterOS.
+</br>
+</br>
+To disable or enable service ports of telnet, ssh, winbox or etc</br>
+if you are signed on via WinBox then go to the IP select the services and remove ports which u don't want to 
+use.</br>
+
